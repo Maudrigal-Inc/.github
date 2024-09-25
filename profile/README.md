@@ -31,7 +31,8 @@ At **Maudrigal Inc**, we believe that innovation thrives through collaboration. 
 - **seregonwar**: Reverse engineering and exploit researcher, full-stack programmer, specializing in security testing, bot development, and system automation.
 - **ItzEmah**: Specialized in code testing and debugging, finding and resolving issues to ensure optimal performance.
 - **francehhh**: Expert in UI/UX design, focused on creating intuitive graphical user interfaces and front-end programming.
-- **CTRLZer0 Team**: A group of cybersecurity enthusiasts focused on identifying and exploiting console vulnerabilities.
+- **CTRLZer0 Team**: A group of cybersecurity enthusiasts focused on identifying and exploiting console vulnerabilities.                                                       
+> **P.S.** We are still the contributors to this team but since they are different projects we preferred to split the two apparatuses to maybe, in a future, add members by distributing them differently!
 
 ### Open Source Contributors
 
